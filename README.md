@@ -1,5 +1,5 @@
 #  Proyecto de Análisis de Datos
-**Título:** Optimización de Procesos de Toma de Decisiones mediante Análisis de Datos  
+**Título:** Optimización de Procesos de Toma de Decisiones en observacion del colegio libertador  mediante Análisis de Datos  
 
 # Descripción
 Este proyecto busca transformar datos dispersos en información clara y visualmente comprensible para mejorar la toma de decisiones estratégicas.  
